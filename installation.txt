@@ -1,0 +1,4 @@
+1. Put the p3_vanilla_fixes folder in your addons folder.
+2. Add 	"p3_vanilla_fixes" "1" to your addonlist.txt in the p3 folder.
+3. Launch the game.
+4. Input "snd_rebuildaudiocache;quit" without quotation marks into the console!!! This ensures that you won't get any audio glitches.

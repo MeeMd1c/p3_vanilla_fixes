@@ -1,0 +1,7 @@
+"AddonInfo"	{
+	addontitle			"Postal 3 Vanilla Fixes"
+	addonauthor			"MeeMdic"
+	addonversion		"1.13.0"
+	addonDescription	"Fixes and enhances assets and adds back some missing sounds."
+	addonlink			"https://gamebanana.com/mods/535387"
+}
